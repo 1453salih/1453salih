@@ -22,7 +22,7 @@
 
 ## İletişim
 
-- **E-posta:** [salih.korkmaz@example.com](mailto:salih.korkmaz@example.com)
+- **E-posta:** [salih.korkmaz@example.com](mailto:salihkorkmaz108478@gmail.com)
 - **LinkedIn:** [linkedin.com/in/salihkorkmaz](https://linkedin.com/in/salihkorkmaz)
 - **Portföy:** [salihkorkmaz.dev](https://salihkorkmaz.dev)
 
