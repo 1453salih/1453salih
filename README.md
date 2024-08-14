@@ -17,12 +17,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1453salih&layout=compact)
 
 ## En çok kullandıklarım
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1453salih&layout=compact)
+  
 
 ## Projeler
 
