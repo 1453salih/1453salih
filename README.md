@@ -20,7 +20,8 @@
 
 ## Most Used Languages
 
-![Languages](https://github.com/salihkorkmaz/salihkorkmaz/blob/main/languages.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
 
 ## Projeler
 
