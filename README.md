@@ -5,14 +5,17 @@
 ## Beceriler
 
 ### Diller ve Teknolojiler
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</p>
+
+## Most Used Languages
+
+![Languages](https://github.com/salihkorkmaz/salihkorkmaz/blob/main/languages.png)
 
 ## Projeler
 
@@ -22,7 +25,7 @@
 
 ## İletişim
 
-- **E-posta:** [salih.korkmaz@example.com](mailto:salihkorkmaz108478@gmail.com)
+- **E-posta:** [salih.korkmaz@example.com](mailto:salih.korkmaz@example.com)
 - **LinkedIn:** [linkedin.com/in/salihkorkmaz](https://linkedin.com/in/salihkorkmaz)
 - **Portföy:** [salihkorkmaz.dev](https://salihkorkmaz.dev)
 
