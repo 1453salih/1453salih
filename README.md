@@ -22,6 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1453salih&layout=compact)
 
 ## Projeler
 
