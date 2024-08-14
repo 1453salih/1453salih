@@ -1,16 +1,31 @@
-# Hello, I'm [Salih Korkmaz] 👋
+# Salih Korkmaz
 
-## Skills
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** React, HTMl,Javascript, Spring Boot
-- **Tools:** Git, Docker, Jenkins
-## Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+👋 Merhaba! Ben Salih Korkmaz, bir yazılım geliştiricisiyim. Web geliştirme, veri tabanı yönetimi ve yazılım mühendisliği konularında çeşitli becerilere sahibim.
 
-<!---
-1453salih/1453salih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Beceriler
+
+### Diller ve Teknolojiler
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- **Spring Boot** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Projeler
+
+- [Proje 1](https://github.com/salihkorkmaz/proje1) - Proje açıklaması
+- [Proje 2](https://github.com/salihkorkmaz/proje2) - Proje açıklaması
+- [Proje 3](https://github.com/salihkorkmaz/proje3) - Proje açıklaması
+
+## İletişim
+
+- **E-posta:** [salih.korkmaz@example.com](mailto:salih.korkmaz@example.com)
+- **LinkedIn:** [linkedin.com/in/salihkorkmaz](https://linkedin.com/in/salihkorkmaz)
+- **Portföy:** [salihkorkmaz.dev](https://salihkorkmaz.dev)
+
+---
+
+Görüş ve önerileriniz için bana ulaşabilirsiniz! 🚀
