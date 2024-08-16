@@ -44,6 +44,4 @@ Private =)
 
 ---
 
-![License](https://img.shields.io/badge/license-MIT-green)
-
 Görüş ve önerileriniz için bana ulaşabilirsiniz! 🚀
