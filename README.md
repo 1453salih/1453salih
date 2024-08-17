@@ -43,11 +43,13 @@ Private =)
   
 ## Kodlama Ortamları
 <a href="https://www.kaggle.com/salihkorkmaz"> 
-<img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
+    <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
-<hr>
+
+<span style="display:inline-block; width:1px; height:60px; background-color:black; margin: 0 10px;"></span>
+
 <a href="https://www.kaggle.com/salihkorkmaz"> 
-<img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
+    <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
 
 
