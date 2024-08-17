@@ -43,17 +43,16 @@ Private =)
   
 ## Kodlama Ortamları
 
-<div style="display-flex">
 <a href="https://www.kaggle.com/salihkorkmaz"> 
     <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
 
-<span style="display:inline-block; width:1px; height:60px; background-color:black; margin: 0 10px;"></span>
+<span style="font-size: 30px; vertical-align: middle;">|</span>
 
 <a href="https://www.kaggle.com/salihkorkmaz"> 
     <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
-</div>
+
 
 ---
 
