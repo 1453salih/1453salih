@@ -42,6 +42,8 @@ Private =)
 - **Portföy:** [salihkorkmaz.dev](https://salihkorkmaz.dev)
   
 ## Kodlama Ortamları
+
+<div style="display-flex">
 <a href="https://www.kaggle.com/salihkorkmaz"> 
     <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
@@ -51,7 +53,7 @@ Private =)
 <a href="https://www.kaggle.com/salihkorkmaz"> 
     <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60">
 </a>
-
+</div>
 
 ---
 
