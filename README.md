@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="nodejs" width="60" height="60"></img>
-  <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
 </p>
 
 ##
@@ -29,7 +28,7 @@
 ## En çok kullandıklarım
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
   
 
 ## Projeler
@@ -41,7 +40,11 @@ Private =)
 - **E-posta:** [salihkorkmaz108478@gmail.com](mailto:salihkorkmaz108478@gmail.com)
 - **LinkedIn:** [linkedin.com/in/salihkorkmaz](https://linkedin.com/in/salih-korkmaz-ce)
 - **Portföy:** [salihkorkmaz.dev](https://salihkorkmaz.dev)
-
+  
+## Kodlama Ortamları
+<a href="https://www.kaggle.com/salihkorkmaz"> 
+<img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
+</a>
 ---
 
 Görüş ve önerileriniz için bana ulaşabilirsiniz! 🚀
