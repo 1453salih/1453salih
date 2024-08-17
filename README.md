@@ -33,7 +33,7 @@
 
 ## Projeler
 
-Private =)
+Çoğunluğu Private =)
 
 ## İletişim
 
