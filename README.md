@@ -37,27 +37,13 @@
 
 ## İletişim
 
-<p align="left">
-  <!-- GitHub -->
-  <a href="mailto:salihkorkmaz108478@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  </a>
+## Contact Me
 
-  <!-- Yahoo Mail -->
-  <a href="mailto:salihkrkmz@yahoo.com" target="_blank">
-   <img src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" alt="GitHub" width="60" height="60"/>
-  </a>
+[![Gmail](./gmail.svg)](mailto:salihkorkmaz108478@gmail.com)
+[![Yahoo Mail](./yahoo.svg)](mailto:salihkorkmaz108478@yahoo.com)
+[![LinkedIn](./linkedin.svg)](https://linkedin.com/in/salih-korkmaz-ce)
+[![Portfolio](./portfolio.svg)](https://salihkorkmaz.dev)
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/salih-korkmaz-ce" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://salihkorkmaz.dev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Portfolio" width="60" height="60"/>
-  </a>
-</p>
 
 
 ## Kodlama Ortamları
