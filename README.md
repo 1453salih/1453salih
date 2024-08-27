@@ -35,16 +35,13 @@
 
 Çoğunluğu Private =)
 
+
 ## İletişim
 
 ## Contact Me
-![gmail](https://github.com/user-attachments/assets/ed42d468-7bce-4a81-8fb8-feec4873b19e)
-![linkedin](https://github.com/user-attachments/assets/7132a807-9b39-44c2-ac36-17aae5cc2fce)
-
 [![Gmail](https://github.com/user-attachments/assets/ed42d468-7bce-4a81-8fb8-feec4873b19e)](mailto:salihkorkmaz108478@gmail.com)
-[![Yahoo Mail](./yahoo.svg)](mailto:salihkorkmaz108478@yahoo.com)
+[![Yahoo Mail]([./yahoo.svg](https://github.com/user-attachments/assets/1ba6f046-1126-4249-b6b5-e45e072aa1aa))](mailto:salihkrkmz@yahoo.com)
 [![LinkedIn](https://github.com/user-attachments/assets/7132a807-9b39-44c2-ac36-17aae5cc2fce)](https://linkedin.com/in/salih-korkmaz-ce)
-[![Portfolio](./portfolio.svg)](https://salihkorkmaz.dev)
 
 
 
