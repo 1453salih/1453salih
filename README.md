@@ -48,9 +48,6 @@
 <a href="https://www.kaggle.com/salihkorkmaz"> 
 <img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
 </a>
-<a href="https://www.linkedin.com/in/salih-korkmaz-ce"> 
-<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="linkedin" width="60" height="60"></img>
-</a>
 
 
 
