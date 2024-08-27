@@ -37,31 +37,27 @@
 
 ## İletişim
 
-<head>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
-
-<div style="display: flex; gap: 10px;">
+<p align="left">
   <!-- GitHub -->
   <a href="mailto:salihkorkmaz108478@gmail.com" target="_blank">
-    <span class="material-icons" style="font-size:24px; color: #333;">code</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   </a>
 
   <!-- Yahoo Mail -->
   <a href="mailto:salihkorkmaz108478@yahoo.com" target="_blank">
-    <span class="material-icons" style="font-size:24px; color: #720e9e;">mail</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Yahoo%21_Mail_Logo.png" alt="Yahoo Mail" width="60" height="60"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/salih-korkmaz-ce" target="_blank">
-    <span class="material-icons" style="font-size:24px; color: #0a66c2;">business_center</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
 
   <!-- Portfolio -->
   <a href="https://salihkorkmaz.dev" target="_blank">
-    <span class="material-icons" style="font-size:24px;">public</span>
+    <img src="https://img.icons8.com/ios-filled/100/000000/domain.png" alt="Portfolio" width="60" height="60"/>
   </a>
-</div>
+</p>
 
 
 ## Kodlama Ortamları
