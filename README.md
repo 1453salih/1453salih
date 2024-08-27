@@ -45,7 +45,8 @@
 
   <!-- Yahoo Mail -->
   <a href="mailto:salihkrkmz@yahoo.com" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yahoo/yahoo-original.svg" alt="GitHub" width="60" height="60"/>
+   <img src="![image](https://github.com/user-attachments/assets/5dab48b5-0235-4bb1-935d-9c4656414bf9)
+" alt="GitHub" width="60" height="60"/>
   </a>
 
   <!-- LinkedIn -->
