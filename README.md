@@ -35,11 +35,12 @@
 
 Çoğunluğu Private =)
 
+![yahoo](https://github.com/user-attachments/assets/b4fee05b-73af-46cb-88f7-faeace8e51b9)
 
 ## İletişim
 
 [![Gmail](https://github.com/user-attachments/assets/ed42d468-7bce-4a81-8fb8-feec4873b19e)](mailto:salihkorkmaz108478@gmail.com)
-[![Yahoo Mail]([https://github.com/user-attachments/assets/f0c5f628-76f8-458d-8556-9cd06c76c959](https://github.com/user-attachments/assets/1ba6f046-1126-4249-b6b5-e45e072aa1aa))](mailto:salihkrkmz@yahoo.com)
+[![Yahoo]([https://github.com/user-attachments/assets/f0c5f628-76f8-458d-8556-9cd06c76c959](https://github.com/user-attachments/assets/1ba6f046-1126-4249-b6b5-e45e072aa1aa))](mailto:salihkrkmz@yahoo.com)
 [![LinkedIn](https://github.com/user-attachments/assets/7132a807-9b39-44c2-ac36-17aae5cc2fce)](https://linkedin.com/in/salih-korkmaz-ce)
 
 
