@@ -43,12 +43,28 @@
   
 ## Kodlama Ortamları
 
-<a href="https://www.kaggle.com/salihkorkmaz"> 
-<img src="https://devicon-website.vercel.app/api/kaggle/original.svg" alt="kaggle" width="60" height="60"></img>
-</a>
-<a href="https://www.linkedin.com/in/salih-korkmaz-ce"> 
-<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="linkedin" width="60" height="60"></img>
-</a>
+<div>
+  <!-- GitHub -->
+  <a href="mailto:salihkorkmaz108478@gmail.com">
+    <img src="https://image-url.com/github-icon.png" alt="GitHub" style="width:24px; height:24px;"/>
+  </a>
+  
+  <!-- Yahoo Mail -->
+  <a href="mailto:salihkorkmaz108478@yahoo.com">
+    <img src="https://image-url.com/yahoo-icon.png" alt="Yahoo" style="width:24px; height:24px;"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/salih-korkmaz-ce" target="_blank">
+    <img src="https://image-url.com/linkedin-icon.png" alt="LinkedIn" style="width:24px; height:24px;"/>
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://salihkorkmaz.dev" target="_blank">
+    <img src="https://image-url.com/portfolio-icon.png" alt="Portfolio" style="width:24px; height:24px;"/>
+  </a>
+</div>
+
 
 
 ---
