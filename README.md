@@ -37,27 +37,32 @@
 
 ## İletişim
 
-<div>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<div style="display: flex; gap: 10px;">
   <!-- GitHub -->
-  <a href="mailto:salihkorkmaz108478@gmail.com">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px;"/>
+  <a href="mailto:salihkorkmaz108478@gmail.com" target="_blank">
+    <i class="fab fa-github" style="font-size:24px; color: #333;"></i>
   </a>
 
   <!-- Yahoo Mail -->
-  <a href="mailto:salihkorkmaz108478@yahoo.com">
-    <img src="https://s.yimg.com/rz/p/yahoo_homepage_en-US_s_f_p_bestfit_homepage.png" alt="Yahoo" style="width:24px; height:24px;"/>
+  <a href="mailto:salihkorkmaz108478@yahoo.com" target="_blank">
+    <i class="fab fa-yahoo" style="font-size:24px; color: #720e9e;"></i>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/salih-korkmaz-ce" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:24px; height:24px;"/>
+    <i class="fab fa-linkedin" style="font-size:24px; color: #0a66c2;"></i>
   </a>
 
   <!-- Portfolio -->
   <a href="https://salihkorkmaz.dev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3126/3126554.png" alt="Portfolio" style="width:24px; height:24px;"/>
+    <i class="fas fa-globe" style="font-size:24px; color: #000;"></i>
   </a>
 </div>
+
 
 ## Kodlama Ortamları
 
