@@ -38,28 +38,28 @@
 ## İletişim
 
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 <div style="display: flex; gap: 10px;">
   <!-- GitHub -->
   <a href="mailto:salihkorkmaz108478@gmail.com" target="_blank">
-    <i class="fab fa-github" style="font-size:24px; color: #333;"></i>
+    <span class="material-icons" style="font-size:24px; color: #333;">code</span>
   </a>
 
   <!-- Yahoo Mail -->
   <a href="mailto:salihkorkmaz108478@yahoo.com" target="_blank">
-    <i class="fab fa-yahoo" style="font-size:24px; color: #720e9e;"></i>
+    <span class="material-icons" style="font-size:24px; color: #720e9e;">mail</span>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/salih-korkmaz-ce" target="_blank">
-    <i class="fab fa-linkedin" style="font-size:24px; color: #0a66c2;"></i>
+    <span class="material-icons" style="font-size:24px; color: #0a66c2;">business_center</span>
   </a>
 
   <!-- Portfolio -->
   <a href="https://salihkorkmaz.dev" target="_blank">
-    <i class="fas fa-globe" style="font-size:24px; color: #000;"></i>
+    <span class="material-icons" style="font-size:24px;">public</span>
   </a>
 </div>
 
