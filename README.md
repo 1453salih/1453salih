@@ -33,7 +33,8 @@
 
 ## Projeler
 
-Çoğunluğu Private =)
+[Ekim Rehberi](https://github.com/1453salih/Tarim-Proje)
+
 
 ## İletişim
 
